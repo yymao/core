@@ -33,6 +33,7 @@ dependencies = [
     "myplotstyle",
     "nbconvert>=7",
     "numpy>=1",
+    "palettable>=3",
     "pandas>=2",
     "pillow>=11",
     "pyarrow>=18",

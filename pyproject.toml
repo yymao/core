@@ -21,7 +21,6 @@ dependencies = [
     "emcee>=3",
     "fast-histogram>=0.14",
     "fast3tree>=0.4",
-    "fitsio>=1",
     "fofcatalogmatching>=0.1",
     "halotools>=0.9",
     "healpy>=1",

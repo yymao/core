@@ -28,8 +28,6 @@ dependencies = [
     "ipykernel>=6",
     "ipython>=8",
     "ipywidgets>=8",
-    "jupyterlab-git>=0.50",
-    "jupyterlab-myst>=2",
     "matplotlib>=3",
     "myplotstyle",
     "nbconvert>=7",
